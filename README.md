@@ -4,6 +4,7 @@ Fullstack common code fork
 This is a January 2016 fork of the Udacity Fullstack Nanodegree program's common code.
 
 Changes:
+
 (1) The forum web app has been adapted into a shoutbox web app. 
 
 The server is still the same, so as the original author advises: only run it on your localhost.
@@ -23,19 +24,19 @@ The next step is to make the shoutbox look good, so this is going to be convenie
 
 Tree:
 
-|
-|----vagrant
-|      |----catalog
-|      |      |----README.txt
-|      |----shoutbox
-|      |      |----createdb.py
-|      |      |----shoutbox.py
-|      |      |----shoutboxdb.py
-|      |      |----shoutboxstyle.py
-|      |----tournament
-|      |      |----tournament.py
-|      |      |----tournament.sql
-|      |      |----tournament_test.py
-|      |----Vagrantfile
-|      |----pg_config.sh
-|----README.md
+
+----vagrant
+      |----catalog
+      |      |----README.txt
+      |----shoutbox
+      |      |----createdb.py
+      |      |----shoutbox.py
+      |      |----shoutboxdb.py
+      |      |----shoutboxstyle.py
+      |----tournament
+      |      |----tournament.py
+      |      |----tournament.sql
+      |      |----tournament_test.py
+      |----Vagrantfile
+      |----pg_config.sh
+----README.md

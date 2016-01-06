@@ -25,11 +25,11 @@ table_1 = "posts"
 db_query = "CREATE DATABASE " + dbname + ";"
 
 table_query = '''
-			  CREATE TABLE posts ( content TEXT,
-								   nickname TEXT,
-			                       time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-			                       id SERIAL );
-			  '''
+	       CREATE TABLE posts ( content TEXT,
+				    nickname TEXT,
+				    time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+				    id SERIAL );
+	       '''
 
 
 #### Declaring Strings for Error Checking and State Management ####

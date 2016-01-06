@@ -23,7 +23,7 @@ The next step is to make the shoutbox look good, so this is going to be convenie
 
 Tree:
 
-'''
+```
 |
 |----vagrant  
 |      |----catalog  
@@ -40,4 +40,4 @@ Tree:
 |      |----Vagrantfile  
 |      |----pg_config.sh  
 |----README.md  
-'''
+```

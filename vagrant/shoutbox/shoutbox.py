@@ -1,6 +1,14 @@
 #
-# DB Forum - a buggy web forum server backed by a good database
+# Python Shoutbox Server
 #
+# Brief: an incomplete web shoutbox server backed by a good database.
+#
+# Credits: this is a forked and hacked version of the DB Forum app server that
+#          has been prepared and provided for the Udacity Fullstack Nanodegree.
+#
+# Author of forum.py: (I assume) Mike Wales
+# 
+# January 2016 Ron Rihoo
 
 # The shoutboxdb module is where the database interface code goes.
 # The shoutboxstyle module is where the HTML and style code goes.

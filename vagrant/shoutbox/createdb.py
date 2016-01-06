@@ -1,12 +1,9 @@
 # createdb.py
 #
-# brief: creates a database and a table within that database
-# 	 using PostgreSQL and Python.
+# Brief: creates a database and a table within that database
+# 	 	 using PostgreSQL and Python.
 #
-# note: the name of the script is not supposed to be anything
-#       special. I'm sure there are thousands of createdb.py's
-#       out there. I hope that this will help you, in the case
-#       that you need it, because it works.
+# Note: forked from one of my own repo's.
 #
 # Author: Ron Rihoo
 
